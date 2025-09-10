@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../Downloads/New folder/my-library-main/my-library-main/public"
+		},
+		{
+			"name": "vibes",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../Downloads/New folder/my-library-main/my-library-main/node_modules"
+		},
+		{
+			"name": "src",
+			"path": "../Downloads/New folder/my-library-main/my-library-main/src"
+		}
+	],
+	"settings": {}
+}
